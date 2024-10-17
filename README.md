@@ -1,8 +1,8 @@
 # This was our final submission for Smart India Hackathon Grand Finale, IIT-ISM Dhanbad, August 2022
 Slides: https://docs.google.com/presentation/d/1F9kTnO0pw1z50MK5ZZxffW1dXbLupTyU/edit#slide=id.p2 \
-Demo: https://www.youtube.com/watch?v=vNpRnLSonPk \
+Demo: https://www.youtube.com/watch?v=vNpRnLSonPk 
 
-This project has been done in Javascript, using React, Node, Express with MongoDB for database. Some features have been developed using HTML, CSS, Python.  \
+This project has been done in Javascript, using React, Node, Express with MongoDB for database. Some features have been developed using HTML, CSS, Python.  
 
 # Project Members: 
 Shreya Hardas (Team Leader) \
